@@ -1,0 +1,9 @@
+{
+	"name": "redlorddf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a97242b4-e0a5-46d0-9de1-26e6166b029c",
+		"tenantId": "153fff76-b804-41b1-8b25-148eaec06c6d"
+	}
+}
